@@ -48,15 +48,6 @@ Developed an interactive dashboard to visualize customer shopping behavior and b
 - Data visualization and dashboard development
 - End-to-end data analytics workflow
 
-## Repository Structure
-
-Customer-Behavior-Analysis/
-├── Customer_Behavior.py
-├── Customer_Behavior.sql
-├── Customer_Behavior.pbix
-├── customer_shopping_behavior.csv
-└── README.md
-
 ## How to Run
 
 1. Clone this repository.
